@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Andrew%20Atef%20Nasr&fontSize=50&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=DevOps%20%26%20.NET%20Developer&descSize=20&descAlignY=55&descAlign=50"/>
+# 👋 Hi, I'm Andrew Atef Nasr
+
+### 🚀 DevOps & .NET Developer | Cairo, Egypt 🇪🇬
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+Cloud-Native+Solutions;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Terraform+%7C+Azure;%F0%9F%94%A5+.NET+9+%7C+Clean+Architecture+%7C+CQRS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+Cloud-Native+Solutions;Kubernetes+%7C+Terraform+%7C+Azure;.NET+9+%7C+Clean+Architecture+%7C+CQRS" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Social Badges -->
 <p>
@@ -93,78 +94,86 @@ passions:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🛡️ Cyrus - Cybersecurity Learning Platform
 **🏆 Top 10 Finalist - We Innovate Hackathon**
 
+</div>
+
 A cloud-native cybersecurity learning platform with dynamic lab provisioning.
 
-**Tech Stack:**
-`.NET 9` `Kubernetes` `Terraform` `Azure` `Docker` `Redis` `GitHub Actions` `PostgreSQL`
+![.NET 9](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Key Features:**
 - 🌐 Multi-pool K8s cluster with Spot Instance strategy
 - 🔐 Dynamic Ingress routing with auto SSL (Cert-Manager)
 - 🚀 Zero-downtime CI/CD with security gates (SAST/SCA)
 - ⚡ Hybrid Caching with Redis + In-Memory
 - 🏗️ Vertical Slice Architecture + CQRS
 
-</td>
-<td width="50%">
+---
+
+<div align="center">
 
 ### 🛒 E-Commerce Hardware Store
+
+</div>
+
 A high-performance e-commerce platform with advanced caching and security.
 
-**Tech Stack:**
-`.NET` `ASP.NET Core` `Redis` `Docker` `PostgreSQL`
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Key Features:**
-- 📉 70-80% payload reduction via Brotli/Gzip
+- 📉 70-80% payload reduction via Brotli/Gzip compression
 - 🔐 OAuth integration (Google/Facebook)
 - ⚡ Redis caching via Docker
 - 🛡️ Granular RBAC & Rate Limiting
 - 💳 Paymob payment gateway integration
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
+
+<div align="center">
 
 ### 🏥 Clinical Management System
+
+</div>
+
 A secure healthcare system streamlining patient record workflows.
 
-**Tech Stack:**
-`.NET Core` `Clean Architecture` `Entity Framework` `SQL Server`
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Key Features:**
 - 🏗️ Clean Architecture design
 - 🔐 Secure RESTful APIs with RBAC
 - ⚡ Optimized EF Core queries
 - 📊 Complex data retrieval optimization
 
-</td>
-<td width="50%">
+---
+
+<div align="center">
 
 ### 📚 Book Store API
+
+</div>
+
 A robust e-commerce API with real-time notifications.
 
-**Tech Stack:**
-`.NET` `ASP.NET Core` `SignalR` `Background Services`
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Key Features:**
 - 🛒 Shopping cart orchestration
 - 🔔 Real-time user notifications
 - 📦 Order status tracking
 - 🔐 Secure checkout flows
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -172,17 +181,14 @@ A robust e-commerce API with real-time notifications.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrew11212&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew11212&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=andrew11212&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew11212&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew11212&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
-
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew11212&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrew11212&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrew11212&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph"/>
 
 </div>
 
@@ -192,7 +198,7 @@ A robust e-commerce API with real-time notifications.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=andrew11212&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=andrew11212&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -202,7 +208,7 @@ A robust e-commerce API with real-time notifications.
 
 <div align="center">
 
-<p>I'm always open to interesting conversations, collaboration opportunities, and new challenges!</p>
+I'm always open to interesting conversations, collaboration opportunities, and new challenges!
 
 <a href="https://linkedin.com/in/andrew-atef299">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -215,18 +221,9 @@ A robust e-commerce API with real-time notifications.
 
 💬 **Ask me about:** .NET, Kubernetes, Terraform, Cloud Architecture, CI/CD, Clean Code
 
-</div>
-
 ---
 
-<div align="center">
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer"/>
-
-<p>
-  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
-</p>
+<i>"First, solve the problem. Then, write the code."</i> — John Johnson
 
 ⭐ **From [Andrew Atef](https://github.com/andrew11212)** with ❤️
 
